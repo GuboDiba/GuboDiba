@@ -12,8 +12,8 @@
 - I build **data-driven dashboards** that help teams manage clients, services, and operational workflows efficiently.
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1882A0&height=200&section=header&text=Turning%20Complex%20Problems%20Into%20Scalable%20Solutions&fontSize=35" />
-</p>>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Animation Banner" />
+</p>
 
 ## 🛠️ Specialized Technical Ecosystem
 > Engineering scalable, secure, and data-driven architectures.
