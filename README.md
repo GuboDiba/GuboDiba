@@ -1,16 +1,64 @@
-## Hi there 👋
+# ⚡ Full-Stack Engineer | Systems Architect
 
-<!--
-**GuboDiba/GuboDiba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 💻 About Me
+- ⚙️ I am a Full-Stack Developer experienced in **API integrations and ERP system integrations**.
+- 🔐 I design **secure authentication systems and Role-Based Access Control (RBAC)** for enterprise dashboards.
+- 🚗 I have experience developing **RFID-based systems**, including a **vehicle release and gate management system** with approval workflows.
+- 🤖 I enjoy building **automation workflows** that streamline data synchronization, API integrations, and internal business processes.
+- 📊 I build **data-driven dashboards** that help teams manage clients, services, and operational workflows efficiently.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3BwamMwb3FvNHR4ZHgxdm42YWV6bmN4Z3ZreHh6eXp4eXp4eXp4eXp4JnVwPTE/vVEjIHDZfI9dS/giphy.gif" width="100%" alt="Tech Banner" />
+</p>
+
+## 🛠️ Specialized Technical Ecosystem
+> Engineering scalable, secure, and data-driven architectures.
+
+### 🎨 Frontend Mastery
+[![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
+[![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+
+### ⚙️ Backend & API Development
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org/)
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://djangoproject.com/)
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
+[![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+
+### 🚀 Automation & Cloud Ops
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+
+---
+
+## 📈 Engineering Analytics
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📂 Core Architecture Competencies
+- **Monolithic & Microservices:** Expert in Laravel Blade/Livewire and Django Templates, as well as decoupled React/Next.js architectures.
+- **RESTful & GraphQL APIs:** Designing high-concurrency endpoints using Python (DRF) and Node.js.
+- **Security & RBAC:** Implementing complex Role-Based Access Control and OAuth2 protocols.
+
+---
+
+## 🤝 Let's Connect
+<p align="left">
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+---
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=1882A0&style=flat-square&label=PROFILE+VIEWS" />
+</p>
