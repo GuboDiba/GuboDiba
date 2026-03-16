@@ -1,6 +1,6 @@
 # ⚡ Full-Stack Engineer | Systems Architect
 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=1882A0&height=200&section=header&text=Turning%20Complex%20Problems%20into%20Scalable%20Solutions&fontSize=40" /> </p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=1882A0&height=200&section=header&text=Turning%20Complex%20Problems%20into%20Scalable%20Solutions&fontSize=30" /> </p>
 
 ## 💻 About Me
 - I am a Full-Stack Developer experienced in **API integrations and ERP system integrations**.
