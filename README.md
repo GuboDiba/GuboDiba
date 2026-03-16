@@ -1,12 +1,15 @@
 # ⚡ Full-Stack Engineer | Systems Architect
 
+<p align="center">
+  <b><i>Turning complex problems into scalable digital solutions.</i></b>
+</p>
 
 ## 💻 About Me
-- ⚙️ I am a Full-Stack Developer experienced in **API integrations and ERP system integrations**.
-- 🔐 I design **secure authentication systems and Role-Based Access Control (RBAC)** for enterprise dashboards.
-- 🚗 I have experience developing **RFID-based systems**, including a **vehicle release and gate management system** with approval workflows.
-- 🤖 I enjoy building **automation workflows** that streamline data synchronization, API integrations, and internal business processes.
-- 📊 I build **data-driven dashboards** that help teams manage clients, services, and operational workflows efficiently.
+- I am a Full-Stack Developer experienced in **API integrations and ERP system integrations**.
+- I design **secure authentication systems and Role-Based Access Control (RBAC)** for enterprise dashboards.
+- I have experience developing **RFID-based systems**, including a **vehicle release and gate management system** with approval workflows.
+- I enjoy building **automation workflows** that streamline data synchronization, API integrations, and internal business processes.
+- I build **data-driven dashboards** that help teams manage clients, services, and operational workflows efficiently.
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3BwamMwb3FvNHR4ZHgxdm42YWV6bmN4Z3ZreHh6eXp4eXp4eXp4eXp4JnVwPTE/vVEjIHDZfI9dS/giphy.gif" width="100%" alt="Tech Banner" />
@@ -39,8 +42,8 @@
 
 ## 📈 Engineering Analytics
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuboDiba&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GuboDiba&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -54,11 +57,10 @@
 
 ## 🤝 Let's Connect
 <p align="left">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:your-gubodibawario@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=1882A0&style=flat-square&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=GuboDiba&color=1882A0&style=flat-square&label=PROFILE+VIEWS" />
 </p>
