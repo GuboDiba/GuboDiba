@@ -12,7 +12,7 @@
 - I build **data-driven dashboards** that help teams manage clients, services, and operational workflows efficiently.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3BwamMwb3FvNHR4ZHgxdm42YWV6bmN4Z3ZreHh6eXp4eXp4eXp4eXp4JnVwPTE/vVEjIHDZfI9dS/giphy.gif" width="100%" alt="Tech Banner" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
 </p>
 
 ## 🛠️ Specialized Technical Ecosystem
