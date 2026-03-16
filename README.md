@@ -10,10 +10,10 @@
 - I have experience developing **RFID-based systems**, including a **vehicle release and gate management system** with approval workflows.
 - I enjoy building **automation workflows** that streamline data synchronization, API integrations, and internal business processes.
 - I build **data-driven dashboards** that help teams manage clients, services, and operational workflows efficiently.
-
+- 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1882A0&height=200&section=header&text=Turning%20Complex%20Problems%20into%20Scalable%20Solutions&fontSize=40" />
-</p>>
+  <img src="https://capsule-render.vercel.app/api?type=circle&color=1882A0&height=200&section=header&text=Turning%20Complex%20Problems%20into%20Scalable%20Solutions&fontSize=35" />
+</p>
 
 ## 🛠️ Specialized Technical Ecosystem
 > Engineering scalable, secure, and data-driven architectures.
