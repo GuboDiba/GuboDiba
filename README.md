@@ -12,7 +12,7 @@
 - I build **data-driven dashboards** that help teams manage clients, services, and operational workflows efficiently.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Animation Banner" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" alt="Coding Background Banner" />
 </p>
 
 ## 🛠️ Specialized Technical Ecosystem
