@@ -12,7 +12,7 @@
 - I build **data-driven dashboards** that help teams manage clients, services, and operational workflows efficiently.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1882A0&height=200&section=header&text=Turning%20Ideas%20Into%20Systems&fontSize=40" />
 </p>
 
 ## 🛠️ Specialized Technical Ecosystem
