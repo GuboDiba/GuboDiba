@@ -2,10 +2,6 @@
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=1882A0&height=200&section=header&text=Turning%20Complex%20Problems%20into%20Scalable%20Solutions&fontSize=30" /> </p>
 
-## 💻 About Me# ⚡ Full-Stack Engineer | Systems Architect
-
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=1882A0&height=200&section=header&text=Turning%20Complex%20Problems%20into%20Scalable%20Solutions&fontSize=30" /> </p>
-
 ## 💻 About Me
 - I am a Full-Stack Developer experienced in bridging custom web applications with ERP ecosystems (Oracle NetSuite) and architecting robust B2B API layers for corporate data exchange.
 - I design **secure authentication systems and Role-Based Access Control (RBAC)** for enterprise dashboards.
