@@ -42,7 +42,6 @@ Engineering scalable, secure, and data-driven architectures.
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions)
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 
----
 
 ## Engineering Analytics
 <p align="center">
@@ -50,14 +49,12 @@ Engineering scalable, secure, and data-driven architectures.
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GuboDiba&theme=tokyonight&hide_border=true" />
 </p>
 
----
 
 ## Core Architecture Competencies
 - **Monolithic & Microservices:** Expert in Laravel Blade/Livewire and Django Templates, as well as decoupled React/Next.js architectures.
 - **RESTful & GraphQL APIs:** Designing high-concurrency endpoints using Python (DRF) and Node.js.
 - **Security & RBAC:** Implementing complex Role-Based Access Control and OAuth2 protocols.
 
----
 
 ## 🤝 Let's Connect
 <p align="left">
