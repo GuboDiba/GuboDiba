@@ -5,6 +5,7 @@
 ## 💻 About Me
 - I am a Full-Stack Developer experienced in bridging custom web applications with ERP ecosystems (Oracle NetSuite) and architecting robust B2B API layers for corporate data exchange.
 - I design **secure authentication systems and Role-Based Access Control (RBAC)** for enterprise dashboards.
+- I design advanced authentication and security systems, including multi-factor authentication (MFA), device fingerprinting, fraud-detection engines, risk scoring, geolocation checks, and token/session hardening.
 - I have experience developing **RFID-based systems**, including a **vehicle release and gate management system** with complex multi-stage approval logic and real-time hardware-to-cloud synchronization.
 - I enjoy building **automation workflows** that streamline data synchronization, API integrations, and internal business processes.
 - I build data-driven pipelines that automate synchronization between internal business processes, external third-party providers, and enterprise financial systems.
