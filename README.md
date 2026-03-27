@@ -46,7 +46,7 @@ Engineering scalable, secure, and data-driven architectures.
 
 ## Engineering Analytics
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuboDiba&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuboDiba&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" /> -->
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GuboDiba&theme=tokyonight&hide_border=true" />
 </p>
 
